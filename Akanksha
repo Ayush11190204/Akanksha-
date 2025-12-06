@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For Akanksha ❤️</title>
+    <style>
+        body {
+            font-family: "Poppins", sans-serif;
+            background: linear-gradient(to right, #ffc0cb, #ffdde1);
+            text-align: center;
+            padding: 40px;
+            color: #333;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            max-width: 700px;
+            margin: auto;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+        }
+        h1 {
+            color: #ff4d6d;
+            font-size: 3em;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.7em;
+        }
+        .heart {
+            font-size: 4em;
+            color: red;
+            animation: beat 1s infinite;
+        }
+        @keyframes beat {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.2); }
+            100% { transform: scale(1); }
+        }
+        .button {
+            background: #ff4d6d;
+            padding: 12px 25px;
+            color: white;
+            border-radius: 8px;
+            font-size: 1.2em;
+            text-decoration: none;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        .button:hover {
+            background: #e63950;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="heart">❤️</div>
+        <h1>Dear Akanksha</h1>
+
+        <p>
+            I’m really sorry for everything that hurt you.<br>
+            I never want to be the reason behind your tears.<br><br>
+
+            You mean so much to me, more than I can ever explain in words.
+            My heart feels complete only with you.  
+        </p>
+
+        <h2 style="color:#ff4d6d;">I love you so much, Akanksha ❤️</h2>
+
+        <p>
+            I want to make things right…  
+            I want to make you smile…  
+            I want to hold your hand and never let go.  
+        </p>
+
+        <a class="button" href="#">Always Yours</a>
+    </div>
+
+</body>
+</html>
